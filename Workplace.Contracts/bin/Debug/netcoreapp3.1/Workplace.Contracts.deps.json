@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Workplace.Contracts/1.0.0": {
+        "dependencies": {
+          "Workplace.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Workplace.Contracts.dll": {}
+        }
+      },
+      "Workplace.Domain/1.0.0": {
+        "runtime": {
+          "Workplace.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Workplace.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workplace.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

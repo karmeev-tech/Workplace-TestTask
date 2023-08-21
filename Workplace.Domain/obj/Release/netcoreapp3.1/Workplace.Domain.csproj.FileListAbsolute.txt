@@ -1,0 +1,9 @@
+C:\Users\Kirill\source\workrepos\Workplace\Workplace.Domain\bin\Release\netcoreapp3.1\Workplace.Domain.deps.json
+C:\Users\Kirill\source\workrepos\Workplace\Workplace.Domain\bin\Release\netcoreapp3.1\Workplace.Domain.dll
+C:\Users\Kirill\source\workrepos\Workplace\Workplace.Domain\bin\Release\netcoreapp3.1\Workplace.Domain.pdb
+C:\Users\Kirill\source\workrepos\Workplace\Workplace.Domain\obj\Release\netcoreapp3.1\Workplace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\source\workrepos\Workplace\Workplace.Domain\obj\Release\netcoreapp3.1\Workplace.Domain.AssemblyInfoInputs.cache
+C:\Users\Kirill\source\workrepos\Workplace\Workplace.Domain\obj\Release\netcoreapp3.1\Workplace.Domain.AssemblyInfo.cs
+C:\Users\Kirill\source\workrepos\Workplace\Workplace.Domain\obj\Release\netcoreapp3.1\Workplace.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\workrepos\Workplace\Workplace.Domain\obj\Release\netcoreapp3.1\Workplace.Domain.dll
+C:\Users\Kirill\source\workrepos\Workplace\Workplace.Domain\obj\Release\netcoreapp3.1\Workplace.Domain.pdb
